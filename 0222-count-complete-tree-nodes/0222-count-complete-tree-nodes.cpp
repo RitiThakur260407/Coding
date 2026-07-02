@@ -6,24 +6,35 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 public:
-void dfs(TreeNode* node , int& count)
-{
-    if(node == NULL)
-    {
-        return ;
-    }
-    count++ ;
-    dfs(node->left,count) ;
-    dfs(node->right,count) ;
-}
     int countNodes(TreeNode* root) {
-        int count = 0 ;
-        dfs(root,count) ;
-        return count ;
+        if (root == NULL) {
+            return 0;
+        }
+
+        int count = 0;
+        queue<TreeNode*> q;
+
+        q.push(root);
+
+        while (!q.empty()) {
+            TreeNode* node = q.front();
+            q.pop();
+
+            count++;
+
+            if (node->left) {
+                q.push(node->left);
+            }
+            if (node->right) {
+                q.push(node->right);
+            }
+        }
+        return count;
     }
 };
