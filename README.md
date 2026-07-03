@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RitiThakur260407/Coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/RitiThakur260407/Coding/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RitiThakur260407/Coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/RitiThakur260407/Coding/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Sorting
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RitiThakur260407/Coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/RitiThakur260407/Coding/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RitiThakur260407/Coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/RitiThakur260407/Coding/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -52,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/RitiThakur260407/Coding/tree/master/0222-count-complete-tree-nodes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RitiThakur260407/Coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
