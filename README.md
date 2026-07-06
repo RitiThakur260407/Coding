@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/RitiThakur260407/Coding/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/RitiThakur260407/Coding/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/RitiThakur260407/Coding/tree/master/0700-search-in-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/RitiThakur260407/Coding/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/RitiThakur260407/Coding/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/RitiThakur260407/Coding/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
