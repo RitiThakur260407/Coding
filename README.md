@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/RitiThakur260407/Coding/tree/master/0260-single-number-iii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/RitiThakur260407/Coding/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/RitiThakur260407/Coding/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RitiThakur260407/Coding/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RitiThakur260407/Coding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/RitiThakur260407/Coding/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RitiThakur260407/Coding/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/RitiThakur260407/Coding/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/RitiThakur260407/Coding/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/RitiThakur260407/Coding/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RitiThakur260407/Coding/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
