@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/RitiThakur260407/Coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RitiThakur260407/Coding/tree/master/1248-count-number-of-nice-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RitiThakur260407/Coding/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/RitiThakur260407/Coding/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/RitiThakur260407/Coding/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/RitiThakur260407/Coding/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RitiThakur260407/Coding/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -170,9 +171,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RitiThakur260407/Coding/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/RitiThakur260407/Coding/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RitiThakur260407/Coding/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/RitiThakur260407/Coding/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RitiThakur260407/Coding/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RitiThakur260407/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/RitiThakur260407/Coding/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
