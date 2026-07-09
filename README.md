@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RitiThakur260407/Coding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/RitiThakur260407/Coding/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RitiThakur260407/Coding/tree/master/0137-single-number-ii) |
+| [0189-rotate-array](https://github.com/RitiThakur260407/Coding/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/RitiThakur260407/Coding/tree/master/0260-single-number-iii) |
 | [0930-binary-subarrays-with-sum](https://github.com/RitiThakur260407/Coding/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RitiThakur260407/Coding/tree/master/0992-subarrays-with-k-different-integers) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/RitiThakur260407/Coding/tree/master/0029-divide-two-integers) |
+| [0189-rotate-array](https://github.com/RitiThakur260407/Coding/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/RitiThakur260407/Coding/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RitiThakur260407/Coding/tree/master/1248-count-number-of-nice-subarrays) |
 ## Recursion
@@ -151,4 +153,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RitiThakur260407/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/RitiThakur260407/Coding/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
