@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RitiThakur260407/Coding/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/RitiThakur260407/Coding/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/RitiThakur260407/Coding/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/RitiThakur260407/Coding/tree/master/0704-binary-search) |
 | [0930-binary-subarrays-with-sum](https://github.com/RitiThakur260407/Coding/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RitiThakur260407/Coding/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/RitiThakur260407/Coding/tree/master/1004-max-consecutive-ones-iii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/RitiThakur260407/Coding/tree/master/0222-count-complete-tree-nodes) |
+| [0704-binary-search](https://github.com/RitiThakur260407/Coding/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/RitiThakur260407/Coding/tree/master/1004-max-consecutive-ones-iii) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/RitiThakur260407/Coding/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Bit Manipulation
