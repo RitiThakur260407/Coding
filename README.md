@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/RitiThakur260407/Coding/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/RitiThakur260407/Coding/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RitiThakur260407/Coding/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RitiThakur260407/Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/RitiThakur260407/Coding/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/RitiThakur260407/Coding/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/RitiThakur260407/Coding/tree/master/0410-split-array-largest-sum) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RitiThakur260407/Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RitiThakur260407/Coding/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/RitiThakur260407/Coding/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RitiThakur260407/Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/RitiThakur260407/Coding/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/RitiThakur260407/Coding/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/RitiThakur260407/Coding/tree/master/0875-koko-eating-bananas) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RitiThakur260407/Coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RitiThakur260407/Coding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/RitiThakur260407/Coding/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RitiThakur260407/Coding/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RitiThakur260407/Coding/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RitiThakur260407/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RitiThakur260407/Coding/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RitiThakur260407/Coding/tree/master/0240-search-a-2d-matrix-ii) |
 ## Greedy
 |  |
 | ------- |
