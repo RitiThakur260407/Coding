@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RitiThakur260407/Coding/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RitiThakur260407/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/RitiThakur260407/Coding/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/RitiThakur260407/Coding/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/RitiThakur260407/Coding/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RitiThakur260407/Coding/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RitiThakur260407/Coding/tree/master/0054-spiral-matrix) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/RitiThakur260407/Coding/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/RitiThakur260407/Coding/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/RitiThakur260407/Coding/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/RitiThakur260407/Coding/tree/master/1004-max-consecutive-ones-iii) |
