@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RitiThakur260407/Coding/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/RitiThakur260407/Coding/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/RitiThakur260407/Coding/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/RitiThakur260407/Coding/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/RitiThakur260407/Coding/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/RitiThakur260407/Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/RitiThakur260407/Coding/tree/master/0704-binary-search) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RitiThakur260407/Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RitiThakur260407/Coding/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/RitiThakur260407/Coding/tree/master/0222-count-complete-tree-nodes) |
+| [0410-split-array-largest-sum](https://github.com/RitiThakur260407/Coding/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/RitiThakur260407/Coding/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/RitiThakur260407/Coding/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/RitiThakur260407/Coding/tree/master/1004-max-consecutive-ones-iii) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/RitiThakur260407/Coding/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RitiThakur260407/Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/RitiThakur260407/Coding/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/RitiThakur260407/Coding/tree/master/1004-max-consecutive-ones-iii) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/RitiThakur260407/Coding/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RitiThakur260407/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/RitiThakur260407/Coding/tree/master/0410-split-array-largest-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -220,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RitiThakur260407/Coding/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RitiThakur260407/Coding/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RitiThakur260407/Coding/tree/master/0073-set-matrix-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/RitiThakur260407/Coding/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
