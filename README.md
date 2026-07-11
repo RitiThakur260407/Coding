@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/RitiThakur260407/Coding/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/RitiThakur260407/Coding/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/RitiThakur260407/Coding/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/RitiThakur260407/Coding/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RitiThakur260407/Coding/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/RitiThakur260407/Coding/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/RitiThakur260407/Coding/tree/master/0560-subarray-sum-equals-k) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/RitiThakur260407/Coding/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/RitiThakur260407/Coding/tree/master/0169-majority-element) |
+| [0435-non-overlapping-intervals](https://github.com/RitiThakur260407/Coding/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RitiThakur260407/Coding/tree/master/0455-assign-cookies) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/RitiThakur260407/Coding/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Counting
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/RitiThakur260407/Coding/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RitiThakur260407/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/RitiThakur260407/Coding/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/RitiThakur260407/Coding/tree/master/0435-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/RitiThakur260407/Coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RitiThakur260407/Coding/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/RitiThakur260407/Coding/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/RitiThakur260407/Coding/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RitiThakur260407/Coding/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/RitiThakur260407/Coding/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
