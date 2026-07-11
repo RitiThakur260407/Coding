@@ -1,28 +1,39 @@
 class Solution {
 public:
     bool checkValidString(string s) {
-        int mini = 0, maxi = 0;
         int n = s.length();
+        stack<int> open, star;
         for (int i = 0; i < n; i++) {
             if (s[i] == '(') {
-                mini++;
-                maxi++;
-            } else if (s[i] == ')') {
-                if (mini >= 1) {
-                    mini--;
-                }
-                if (maxi >= 1) {
-                    maxi--;
+                open.push(i);
+            } else if (s[i] == '*') {
+                star.push(i);
+            } else {
+                if (!open.empty()) {
+                    open.pop();
+                } else if (!star.empty()) {
+                    star.pop();
                 } else {
                     return false;
                 }
-            } else {
-                if (mini >= 1) {
-                    mini--;
-                }
-                maxi++;
             }
         }
-        return (mini == 0) ;
+
+        while (!open.empty()) {
+            int opentop = open.top();
+            if (star.empty()) {
+                return false;
+            } else {
+                int startop = star.top();
+                if (startop > opentop) {
+                    open.pop();
+                    star.pop();
+                }
+                else
+                return false;
+            }
+        }
+
+        return true;
     }
 };
