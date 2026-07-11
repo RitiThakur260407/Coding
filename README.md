@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RitiThakur260407/Coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RitiThakur260407/Coding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RitiThakur260407/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/RitiThakur260407/Coding/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RitiThakur260407/Coding/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RitiThakur260407/Coding/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RitiThakur260407/Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/RitiThakur260407/Coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RitiThakur260407/Coding/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/RitiThakur260407/Coding/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/RitiThakur260407/Coding/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RitiThakur260407/Coding/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RitiThakur260407/Coding/tree/master/0455-assign-cookies) |
