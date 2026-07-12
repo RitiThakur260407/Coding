@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RitiThakur260407/Coding/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/RitiThakur260407/Coding/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/RitiThakur260407/Coding/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/RitiThakur260407/Coding/tree/master/0189-rotate-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RitiThakur260407/Coding/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/RitiThakur260407/Coding/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/RitiThakur260407/Coding/tree/master/0678-valid-parenthesis-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/RitiThakur260407/Coding/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
