@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RitiThakur260407/Coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RitiThakur260407/Coding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/RitiThakur260407/Coding/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/RitiThakur260407/Coding/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/RitiThakur260407/Coding/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/RitiThakur260407/Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/RitiThakur260407/Coding/tree/master/0560-subarray-sum-equals-k) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/RitiThakur260407/Coding/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/RitiThakur260407/Coding/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/RitiThakur260407/Coding/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/RitiThakur260407/Coding/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/RitiThakur260407/Coding/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/RitiThakur260407/Coding/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/RitiThakur260407/Coding/tree/master/0283-move-zeroes) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/RitiThakur260407/Coding/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RitiThakur260407/Coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/RitiThakur260407/Coding/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/RitiThakur260407/Coding/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/RitiThakur260407/Coding/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RitiThakur260407/Coding/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/RitiThakur260407/Coding/tree/master/0328-odd-even-linked-list) |
