@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RitiThakur260407/Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/RitiThakur260407/Coding/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RitiThakur260407/Coding/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RitiThakur260407/Coding/tree/master/1248-count-number-of-nice-subarrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/RitiThakur260407/Coding/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RitiThakur260407/Coding/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/RitiThakur260407/Coding/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RitiThakur260407/Coding/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/RitiThakur260407/Coding/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Counting
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RitiThakur260407/Coding/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/RitiThakur260407/Coding/tree/master/2236-root-equals-sum-of-children) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/RitiThakur260407/Coding/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/RitiThakur260407/Coding/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -158,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RitiThakur260407/Coding/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/RitiThakur260407/Coding/tree/master/2236-root-equals-sum-of-children) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/RitiThakur260407/Coding/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Search
