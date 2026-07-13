@@ -24,13 +24,17 @@ public:
         while (!q.empty()) {
             int size = q.size();
 
-            vector<int> level;
+            vector<int> level(size);
 
             for (int i = 0; i < size; i++) {
                 TreeNode* node = q.front();
                 q.pop();
 
-                level.push_back(node->val);
+                if (check == true) {
+                    level[i] = node->val;
+                } else {
+                    level[size - 1 - i] = node->val;
+                }
 
                 if (node->left) {
                     q.push(node->left);
@@ -40,9 +44,6 @@ public:
                 }
             }
 
-            if (check == false) {
-                reverse(level.begin(), level.end());
-            }
             check = !(check);
             ans.push_back(level);
         }
