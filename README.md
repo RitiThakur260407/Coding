@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/RitiThakur260407/Coding/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/RitiThakur260407/Coding/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/RitiThakur260407/Coding/tree/master/0678-valid-parenthesis-string) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/RitiThakur260407/Coding/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Simulation
 |  |
 | ------- |
@@ -403,12 +404,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/RitiThakur260407/Coding/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RitiThakur260407/Coding/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/RitiThakur260407/Coding/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/RitiThakur260407/Coding/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/RitiThakur260407/Coding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RitiThakur260407/Coding/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/RitiThakur260407/Coding/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/RitiThakur260407/Coding/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -418,4 +421,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/RitiThakur260407/Coding/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/RitiThakur260407/Coding/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
