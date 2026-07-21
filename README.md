@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RitiThakur260407/Coding/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/RitiThakur260407/Coding/tree/master/1306-jump-game-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RitiThakur260407/Coding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/RitiThakur260407/Coding/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RitiThakur260407/Coding/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RitiThakur260407/Coding/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/RitiThakur260407/Coding/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/RitiThakur260407/Coding/tree/master/1306-jump-game-iii) |
+| [1631-path-with-minimum-effort](https://github.com/RitiThakur260407/Coding/tree/master/1631-path-with-minimum-effort) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/RitiThakur260407/Coding/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RitiThakur260407/Coding/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/RitiThakur260407/Coding/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/RitiThakur260407/Coding/tree/master/1306-jump-game-iii) |
+| [1631-path-with-minimum-effort](https://github.com/RitiThakur260407/Coding/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RitiThakur260407/Coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RitiThakur260407/Coding/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RitiThakur260407/Coding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/RitiThakur260407/Coding/tree/master/1631-path-with-minimum-effort) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/RitiThakur260407/Coding/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/RitiThakur260407/Coding/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RitiThakur260407/Coding/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RitiThakur260407/Coding/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/RitiThakur260407/Coding/tree/master/1631-path-with-minimum-effort) |
 ## Greedy
 |  |
 | ------- |
@@ -383,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/RitiThakur260407/Coding/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/RitiThakur260407/Coding/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/RitiThakur260407/Coding/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/RitiThakur260407/Coding/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -397,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/RitiThakur260407/Coding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RitiThakur260407/Coding/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/RitiThakur260407/Coding/tree/master/0802-find-eventual-safe-states) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/RitiThakur260407/Coding/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
