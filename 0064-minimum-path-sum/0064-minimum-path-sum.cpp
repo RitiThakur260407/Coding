@@ -1,27 +1,27 @@
 class Solution {
 public:
-    int path(int row, int col, int m, int n, vector<vector<int>>& grid,
-             vector<vector<int>>& dp) {
-        if ((row >= m) || (col >= n))
-            return 1e9;
-
-        if ((row == m - 1) && (col == n - 1))
-            return grid[m - 1][n - 1];
-
-        if (dp[row][col] != -1) {
-            return dp[row][col];
-        }
-
-        int path1 = path(row + 1, col, m, n, grid, dp);
-        int path2 = path(row, col + 1, m, n, grid, dp);
-
-        return dp[row][col] = grid[row][col] + min(path1, path2);
-    }
     int minPathSum(vector<vector<int>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
-        vector<vector<int>> dp(m, vector<int>(n, -1));
+        vector<vector<int>> dp(m+1, vector<int>(n+1,1e9));
+        dp[m-1][n-1] = grid[m-1][n-1] ;
 
-        return path(0, 0, m, n, grid, dp);
+        for(int i = m-1 ; i >= 0 ; i--)
+        {
+            for(int j = n-1 ; j >= 0 ; j--)
+            {
+                if((i == m-1) && (j == n-1))
+                {
+                    continue ;
+                }
+
+                int path1 = dp[i+1][j] ;
+                int path2 = dp[i][j+1] ;
+
+                dp[i][j] = grid[i][j] + min(path1,path2) ;
+            }
+        }
+
+        return dp[0][0] ;
     }
 };
