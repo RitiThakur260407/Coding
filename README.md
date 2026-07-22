@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/RitiThakur260407/Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/RitiThakur260407/Coding/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/RitiThakur260407/Coding/tree/master/0283-move-zeroes) |
+| [0403-frog-jump](https://github.com/RitiThakur260407/Coding/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/RitiThakur260407/Coding/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RitiThakur260407/Coding/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RitiThakur260407/Coding/tree/master/0455-assign-cookies) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RitiThakur260407/Coding/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RitiThakur260407/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RitiThakur260407/Coding/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0403-frog-jump](https://github.com/RitiThakur260407/Coding/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/RitiThakur260407/Coding/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RitiThakur260407/Coding/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/RitiThakur260407/Coding/tree/master/0542-01-matrix) |
