@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/RitiThakur260407/Coding/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/RitiThakur260407/Coding/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/RitiThakur260407/Coding/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/RitiThakur260407/Coding/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RitiThakur260407/Coding/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/RitiThakur260407/Coding/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RitiThakur260407/Coding/tree/master/1248-count-number-of-nice-subarrays) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/RitiThakur260407/Coding/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RitiThakur260407/Coding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RitiThakur260407/Coding/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/RitiThakur260407/Coding/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RitiThakur260407/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RitiThakur260407/Coding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/RitiThakur260407/Coding/tree/master/0410-split-array-largest-sum) |
@@ -422,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/RitiThakur260407/Coding/tree/master/0743-network-delay-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RitiThakur260407/Coding/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RitiThakur260407/Coding/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
