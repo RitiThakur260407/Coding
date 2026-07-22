@@ -1,22 +1,19 @@
 class Solution {
 public:
-    int money(int ind, int n, vector<int>& nums, vector<int>& dp) {
-        if (ind >= n) {
-            return 0;
-        }
 
-        if (dp[ind] != -1)
-            return dp[ind];
-
-        int pick = nums[ind] + money(ind + 2, n, nums, dp);
-        int notpick = money(ind + 1, n, nums, dp);
-
-        return dp[ind] = max(pick, notpick);
-    }
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<int> dp(n, -1);
+        vector<int> dp(n+2, -1);
+        dp[n] = 0 , dp[n+1] = 0 ;
 
-        return money(0, n, nums, dp);
+        for(int i = n-1 ; i >= 0 ; i--)
+        {
+            int pick = nums[i] + dp[i+2] ;
+            int notpick = dp[i+1] ;
+            
+            dp[i] = max(pick,notpick) ;
+        }
+
+        return dp[0] ;
     }
 };
