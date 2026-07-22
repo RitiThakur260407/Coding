@@ -1,30 +1,32 @@
 class Solution {
 public:
-    int paths(int row, int col, int m, int n,
-              vector<vector<int>>& obstacleGrid , vector<vector<int>>& dp) {
-        if ((row >= m) || (col >= n))
-            return 0;
-
-        if (obstacleGrid[row][col] == 1)
-            return 0;
-
-        if ((row == m - 1) && (col == n - 1))
-            return 1;
-
-        if(dp[row][col] != -1)
-        return dp[row][col] ;
-
-        int path1 = paths(row + 1, col, m, n, obstacleGrid ,dp);
-        int path2 = paths(row, col + 1, m, n, obstacleGrid,dp);
-
-        return dp[row][col] = (path1 + path2);
-    }
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
         int m = obstacleGrid.size();
         int n = obstacleGrid[0].size();
 
-        vector<vector<int>> dp(m,vector<int>(n,-1)) ;
+        vector<vector<long long>> dp(m + 1, vector<long long>(n + 1));
 
-        return paths(0, 0, m, n, obstacleGrid,dp);
+        for (int i = 0; i <= n; i++) {
+            dp[m][i] = 0;
+        }
+
+        for (int row = m - 1; row >= 0; row--) {
+            for (int col = n - 1; col >= 0; col--) {
+                if (obstacleGrid[row][col] == 1) {
+                    dp[row][col] = 0;
+                    continue;
+                }
+                if (row == m - 1 && col == n - 1) {
+                    dp[row][col] = 1;
+                    continue;
+                }
+                long long path1 = dp[row + 1][col];
+                long long path2 = dp[row][col + 1];
+
+                dp[row][col] = path1 + path2;
+            }
+        }
+
+        return (int)dp[0][0] ;
     }
 };
