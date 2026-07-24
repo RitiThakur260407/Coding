@@ -1,33 +1,33 @@
 class Solution {
 public:
-    int ways(int ind, int amount, vector<int>& coins, vector<vector<int>>& dp) {
-        if (amount == 0) {
-            return 1;
-        }
-
-        if (ind == 0) {
-            if (amount % coins[0] == 0) {
-                return 1;
-            }
-
-            return 0;
-        }
-
-        if (dp[ind][amount] != -1)
-            return dp[ind][amount];
-
-        int pick = 0;
-        if (amount >= coins[ind]) {
-            pick = ways(ind, amount - coins[ind], coins, dp);
-        }
-        int notpick = ways(ind - 1, amount, coins, dp);
-
-        return dp[ind][amount] = (pick + notpick);
-    }
     int change(int amount, vector<int>& coins) {
         int n = coins.size();
 
-        vector<vector<int>> dp(n, vector<int>(amount + 1, -1));
-        return ways(n - 1, amount, coins, dp);
+        vector<vector<unsigned int>> dp(n, vector<unsigned int>(amount + 1));
+
+        for (int ind = 0; ind < n; ind++) {
+            dp[ind][0] = 1;
+        }
+
+        for (int target = 0; target <= amount; target++) {
+            if (target % coins[0] == 0) {
+                dp[0][target] = 1;
+            } else {
+                dp[0][target] = 0;
+            }
+        }
+
+        for (int ind = 1; ind < n; ind++) {
+            for (int target = 1; target <= amount; target++) {
+                unsigned int pick = 0;
+                if (target >= coins[ind]) {
+                    pick = dp[ind][target - coins[ind]];
+                }
+                unsigned int notpick = dp[ind - 1][target];
+
+                dp[ind][target] = pick + notpick;
+            }
+        }
+        return dp[n - 1][amount];
     }
 };
