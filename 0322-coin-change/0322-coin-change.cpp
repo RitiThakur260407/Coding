@@ -1,33 +1,43 @@
 class Solution {
 public:
-    int money(int ind, int amount, vector<int>& coins,
-              vector<vector<int>>& dp) {
-        if (amount == 0)
-            return 0;
-
-        if (ind == 0) {
-            if (amount % coins[ind] == 0)
-                return amount / coins[ind];
-
-            return 1e9;
-        }
-
-        if (dp[ind][amount] != -1)
-            return dp[ind][amount];
-
-        int pick = 1e9;
-        if (amount >= coins[ind]) {
-            pick = 1 + money(ind, amount - coins[ind], coins, dp);
-        }
-        int notpick = money(ind - 1, amount, coins, dp);
-
-        return dp[ind][amount] = min(pick, notpick);
-    }
+    
     int coinChange(vector<int>& coins, int amount) {
         int n = coins.size();
-        vector<vector<int>> dp(n, vector<int>(amount + 1, -1));
+        vector<vector<int>> dp(n, vector<int>(amount + 1));
 
-        int total = money(n - 1, amount, coins, dp);
+        for(int ind = 0 ; ind < n ; ind++)
+        {
+            dp[ind][0] = 0 ;
+        }
+
+        for(int target = 0 ; target <= amount ; target++)
+        {
+            if(target%coins[0] == 0)
+            {
+                dp[0][target] = target/coins[0] ;
+            }
+            else
+            {
+                dp[0][target] = 1e9 ;
+            }
+        }
+
+        for(int ind = 1 ; ind < n ; ind++)
+        {
+            for(int target = 0 ; target <= amount ; target++)
+            {
+                int pick = 1e9 ;
+                if(target >= coins[ind])
+                {
+                    pick = 1 + dp[ind][target-coins[ind]] ;
+                }
+                int notpick = dp[ind-1][target] ;
+
+                dp[ind][target] = min(pick,notpick) ;
+            }
+        }
+
+        int total = dp[n-1][amount];
 
         if (total >= 1e9)
             return -1;
