@@ -1,0 +1,37 @@
+class Solution {
+public:
+    int money(int ind, int amount, vector<int>& coins,
+              vector<vector<int>>& dp) {
+        if (amount == 0)
+            return 0;
+
+        if (ind == 0) {
+            if (amount % coins[ind] == 0)
+                return amount / coins[ind];
+
+            return 1e9;
+        }
+
+        if (dp[ind][amount] != -1)
+            return dp[ind][amount];
+
+        int pick = 1e9;
+        if (amount >= coins[ind]) {
+            pick = 1 + money(ind, amount - coins[ind], coins, dp);
+        }
+        int notpick = money(ind - 1, amount, coins, dp);
+
+        return dp[ind][amount] = min(pick, notpick);
+    }
+    int coinChange(vector<int>& coins, int amount) {
+        int n = coins.size();
+        vector<vector<int>> dp(n, vector<int>(amount + 1, -1));
+
+        int total = money(n - 1, amount, coins, dp);
+
+        if (total >= 1e9)
+            return -1;
+
+        return total;
+    }
+};
